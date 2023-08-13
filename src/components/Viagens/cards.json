@@ -1,0 +1,32 @@
+[
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Rio de Janeiro.jpg",
+        "destino": "Voos Para Rio de Janeiro",
+        "partida": "Saindo de Curitiba",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 500,00",
+        "id": "1"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Paris.jpg",
+        "destino": "Voos Para Paris",
+        "partida": "Saindo de São Paulo",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 2.500,00",
+        "id": "2"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Disney.jpg",
+        "destino": "Voos Para Orlando",
+        "partida": "Saindo de Rio de Janeiro",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 2.000,00",
+        "id": "3"
+    }
+]
