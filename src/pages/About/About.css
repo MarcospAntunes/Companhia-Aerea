@@ -1,0 +1,26 @@
+#aboutMain {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+#aboutMain section {
+    width: 500px;
+    text-align: center;
+}
+
+#aboutMain article {
+    margin-bottom: 30px;
+}
+
+#aboutMain h1 {
+    font-size: 32px;
+    line-height: 34px;
+}
+
+#aboutMain p {
+    font-size: 20px;
+    line-height: 24px;
+    text-align: justify;
+    
+}

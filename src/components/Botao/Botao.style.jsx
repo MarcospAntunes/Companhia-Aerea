@@ -21,11 +21,6 @@ ${props => props.$azul && css`
     color: white;
     
   `}
- ${props => props.$botoesHeader && css`
-    @media screen and (max-width: 752px) {
-    display: none;
-    } 
- `}
 `;
 
   const Div = styled.div`

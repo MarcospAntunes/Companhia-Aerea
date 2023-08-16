@@ -1,0 +1,16 @@
+#main404 {
+    width: 100vw;
+    height: 100vh;
+    background-image: url();
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+#main404 p {
+    font-size: 18px;
+    width: 500px;
+}

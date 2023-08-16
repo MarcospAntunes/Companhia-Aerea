@@ -28,5 +28,55 @@
         "trajeto": "Ida e Volta",
         "preço_ida_e_volta": "R$ 2.000,00",
         "id": "3"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Miami.jpg",
+        "destino": "Voos Para Miami",
+        "partida": "Saindo de Rio de Janeiro",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 2.852,00",
+        "id": "4"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Havaí.jpg",
+        "destino": "Voos Para Havaí",
+        "partida": "Saindo de São Paulo",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 4.700,00",
+        "id": "5"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Roma.jpg",
+        "destino": "Voos Para Roma",
+        "partida": "Saindo de Curitiba",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 3.200,00",
+        "id": "6"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Gramado.jpg",
+        "destino": "Voos Para Gramado",
+        "partida": "Saindo de Brasília",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 1.100,00",
+        "id": "7"
+    },
+    {   
+        "tipo": "Passagem",
+        "imagem": "/Inglaterra.jpg",
+        "destino": "Voos Para Inglaterra",
+        "partida": "Saindo de Curitiba",
+        "companhia": "Por MK",
+        "trajeto": "Ida e Volta",
+        "preço_ida_e_volta": "R$ 4.500,00",
+        "id": "8"
     }
 ]

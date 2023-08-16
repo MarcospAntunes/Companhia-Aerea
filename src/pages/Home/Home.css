@@ -1,14 +1,10 @@
-main {
-    display: flex;
-    align-content: center;
-    flex-wrap: wrap;
+#homeMain {
     width: 100vw;
     height: 100vh;
-    align-items: center;
     margin-left: 10px;
 }
 
-section {
+#apresentacao, #passagens {
     font-family: Inter, serif;
     color: white;
 }
@@ -31,44 +27,4 @@ section {
     width: 400px;
     color: #ffffff7e;
     margin-bottom: 10px;
-}
-
-@media screen and (max-width: 500px) {
-    main {
-        height: 320vh;
-    }
-    #apresentacao {
-        padding: 0;
-        margin-bottom: 270px;
-    }
-    #apresentacao h1 {
-        width: 300px;
-        font-size: 18px;
-    }
-    #apresentacao h2 {
-        font-size: 14px;
-    }
-    #apresentacao p {
-        width: 270px;
-        font-size: 12px;
-    }
-
-}
-
-@media screen and (min-width: 501px) and (max-width: 810px) {
-    main {
-        height: 200vh;
-    }
-    #apresentacao {
-        padding: 0;
-    }
-}
-
-@media screen and (min-width: 811px) and (max-width: 1215px) {
-    main {
-        height: 150vh;
-    }
-    #apresentacao {
-        padding: 0;
-    }
 }
